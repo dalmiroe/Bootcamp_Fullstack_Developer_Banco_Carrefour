@@ -15,7 +15,7 @@ Assuntos estudados no Bootcamp
      git clone - obter a estrutura remoto para o local
      git add - adicionar arquivos - add. ou pontou add nome do arquivo
      git commit -m - adicionar comentario ao commit 
-     git push - public as aterações no repositorio remoto
+     git push - publicar as aterações no repositorio remoto
      git (baixar)pull - atualiza o repositorio local
      git merge - juntar váris alterações do mesmo arquivos
      git status - informações sobre o repositorio
@@ -24,6 +24,9 @@ Assuntos estudados no Bootcamp
      https://git-scm.com/docs - mais informações
      Utilizando os comandos
   Reposotório remoto - Github, gitlab,bitbucket
+- Introdução ao GitHub
+   git remote add origin - conectar meu repositorio local a um servidor remoto
+  
      
     
  
