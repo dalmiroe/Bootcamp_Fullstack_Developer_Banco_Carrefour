@@ -26,6 +26,17 @@ Assuntos estudados no Bootcamp
   Reposotório remoto - Github, gitlab,bitbucket
 - Introdução ao GitHub
    git remote add origin - conectar meu repositorio local a um servidor remoto
+   Branch - Ramificações - Quebrar o projeto em versões 
+      git branch - mostra as branchs
+      git branch novaB - cria um nova branch com o nome novaB
+      git checkout novaB - cria e ja posiciona na nova branch
+      git push origin novaB - atualiza no github a minha nova branch
+      git reset HEAD nme-arq. - retirar arq apos add
+      git merege - deixar o master atualizada com determinada branch
+      git commit --amend - editar msg do ultimo commit
+      
+      
+   
   
      
     
