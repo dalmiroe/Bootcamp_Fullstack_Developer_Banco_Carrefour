@@ -42,7 +42,7 @@ Assuntos estudados no Bootcamp
   
   ##- Fundamentos de Arquitetura de Sistema
   
-    WebServices - aplicação que serve para fazer integração entre sistema.
+  WebServices - aplicação que serve para fazer integração entre sistema.
     Comunição feita atraves do protocolo http, pode usar a estrutura **SOAP** ou **REST**
     Soap usa xml, wsdl e xsd. 
     Rest usa json
