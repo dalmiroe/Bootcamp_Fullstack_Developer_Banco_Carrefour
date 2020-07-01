@@ -1,6 +1,7 @@
 # Bootcamp_Fullstack_Developer_Banco_Carrefour
 
 Assuntos estudados no Bootcamp
+
 ##- Lógica de programação
   Algoritimo - Sequencia de ações;
   Pseudocódigo - algoritmos descritos de forma estruturada;
@@ -9,6 +10,7 @@ Assuntos estudados no Bootcamp
   Comandos - Tomadas de decisões, laços de repetição, variáveis, constantes, matrizes e vetores;
   
 ##- Introdução ao Git e controle de versões.
+
   Controle de versão - Gerencia o ciclo do código
   Ferramentas - Git/cvs/subversion/tfs
   GIT - Principais comandos via terminal
@@ -27,6 +29,7 @@ Assuntos estudados no Bootcamp
   Reposotório remoto - Github, gitlab,bitbucket
   
 ##- Introdução ao GitHub
+
    git remote add origin - conectar meu repositorio local a um servidor remoto
    Branch - Ramificações - Quebrar o projeto em versões 
       git branch - mostra as branchs
@@ -38,6 +41,7 @@ Assuntos estudados no Bootcamp
       git commit --amend - editar msg do ultimo commit
   
   ##- Fundamentos de Arquitetura de Sistema
+  
     WebServices - aplicação que serve para fazer integração entre sistema.
     Comunição feita atraves do protocolo http, pode usar a estrutura **SOAP** ou **REST**
     Soap usa xml, wsdl e xsd. 
