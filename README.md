@@ -46,6 +46,10 @@ Assuntos estudados no Bootcamp
     Comunição feita atraves do protocolo http, pode usar a estrutura **SOAP** ou **REST**
     Soap usa xml, wsdl e xsd. 
     Rest usa json
+    
+  Modelos Monolito x Microserviços
+    Monolito é a arquitetura baseada em uma únca aplcação fazendo tudo e gerenciando tudo, acesso a banco, regra de negocios,etc.
+    Microserviços, temos várias arquiteturas, mas basicamente é quebrar a aplicação (as regras de negocios) em pequenos serviços e fazer os serviços conversarem e tenar deixar mais independente possível.
       
    
   
