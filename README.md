@@ -49,7 +49,10 @@ Assuntos estudados no Bootcamp
     
   Modelos Monolito x Microserviços
     Monolito é a arquitetura baseada em uma únca aplcação fazendo tudo e gerenciando tudo, acesso a banco, regra de negocios,etc.
-    Microserviços, temos várias arquiteturas, mas basicamente é quebrar a aplicação (as regras de negocios) em pequenos serviços e fazer os serviços conversarem e tenar deixar mais independente possível.
+    Microserviços, temos várias arquiteturas, mas basicamente é quebrar a aplicação (as regras de negocios) em pequenos serviços e fazer os serviços conversarem e tentar deixar mais independente possível.
+    
+ Gerenciamento de erros e volume de acesso
+ https://github.com/jeffhsta/fundamentos_arquitetura
       
    
   
