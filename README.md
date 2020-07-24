@@ -53,6 +53,13 @@ Assuntos estudados no Bootcamp
     
  Gerenciamento de erros e volume de acesso
  https://github.com/jeffhsta/fundamentos_arquitetura
+ 
+ ## - A arquitetura de aplicações móveis e internet das coisas
+ 
+ Internet da coisas - Sensores embutidos em objetos (coisas) para conectar a internet e coletar dados
+    Desafios - Privacidade e Segurança / Quantidade exponencial de dispositivos na rede / Gerar valor com os dados coletados
+    Arquitetura - Baixo consumo de energia, rede de dados limitado, resiliencia, segurança, customização e baixo custo. / Arduino para protótipo, Embarcados equipamentos             profissional, Minicomputadores.
+    Protocolo de comunicação - MQTT, mensagem assincrona, Modelo Publish/Subscribe
       
    
   
