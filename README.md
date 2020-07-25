@@ -49,17 +49,29 @@ Assuntos estudados no Bootcamp
     
   Modelos Monolito x Microserviços
     Monolito é a arquitetura baseada em uma únca aplcação fazendo tudo e gerenciando tudo, acesso a banco, regra de negocios,etc.
-    Microserviços, temos várias arquiteturas, mas basicamente é quebrar a aplicação (as regras de negocios) em pequenos serviços e fazer os serviços conversarem e tentar deixar mais independente possível.
+    Microserviços, temos várias arquiteturas, mas basicamente é quebrar a aplicação (as regras de negocios) em pequenos serviços e fazer os serviços conversarem e tentar deixar    mais independente possível.
     
- Gerenciamento de erros e volume de acesso
- https://github.com/jeffhsta/fundamentos_arquitetura
+  Gerenciamento de erros e volume de acesso
+  https://github.com/jeffhsta/fundamentos_arquitetura
  
- ## - A arquitetura de aplicações móveis e internet das coisas
+  ## - A arquitetura de aplicações móveis e internet das coisas
  
- Internet da coisas - Sensores embutidos em objetos (coisas) para conectar a internet e coletar dados
+  Internet da coisas - Sensores embutidos em objetos (coisas) para conectar a internet e coletar dados
     Desafios - Privacidade e Segurança / Quantidade exponencial de dispositivos na rede / Gerar valor com os dados coletados
     Arquitetura - Baixo consumo de energia, rede de dados limitado, resiliencia, segurança, customização e baixo custo. / Arduino para protótipo, Embarcados equipamentos             profissional, Minicomputadores.
     Protocolo de comunicação - MQTT, mensagem assincrona, Modelo Publish/Subscribe
+      Tópico
+        protocolo://broker/user identifiier / sensor/position
+        mqtt://broker.io/a6g319/gps/position
+     Subscribe - escutar o broker
+     
+  Cloud - Por conta do número grande de dados é necessário a nuvem. 
+  
+  Estudo de caso
+    Arquitetura escolhida - GPS conecta via protocolo MQTT a um BROKER que conecta a um WORKER que armazena em DATA STORE
+    Prova de conceito (POC) - APP Android - Eclipse Mosquitto - Node.js - Mysql
+    Mínimo produto viável (MVP)- GPS Embarcado - HiveMQ - Akka Scala JVM - Bando de dados noSql - MongoDB
+    solução final - vai ter todas as ferramentas de mercado mais profissionais
       
    
   
