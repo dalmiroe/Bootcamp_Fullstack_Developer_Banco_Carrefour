@@ -73,21 +73,30 @@ Assuntos estudados no Bootcamp
     Mínimo produto viável (MVP)- GPS Embarcado - HiveMQ - Akka Scala JVM - Bando de dados noSql - MongoDB
     solução final - vai ter todas as ferramentas de mercado mais profissionais
     
- ##- Arquitetura de dados essencial
+  ##- Arquitetura de dados essencial
  
-    Modelo Sustentável - Estruturação, Durabilidade, Velocidade, Controle de acesso e Isolamento.
-    Modelo Flat - linha de registros e colunas. Ex. Tabela
-    Modelo Hierárquico - Grupos de informações
-    Modelo relacional - Tabelas relacionadas
-      Tabelas com linhas e colunas e chaves primarias (identificação única) e secundárais (relaciona as tabelas).
-      Modelagem conceitual - MER - Modelo entidade e relacionamento
-        DER - Diagrama de entidade e relacionamento, demostra graficamento o relacionamento entre as entidades.
-          Destaca as entidades fortes (entidades que não dependem de outras), entidades fracas (entidades que dependem de outras), entidades associativas que são geradas com base nos relacionamento n para n. E difinição das cardinalidades.
+  Modelo Sustentável - Estruturação, Durabilidade, Velocidade, Controle de acesso e Isolamento.
+  Modelo Flat - linha de registros e colunas. Ex. Tabela
+  Modelo Hierárquico - Grupos de informações
+  Modelo relacional - Tabelas relacionadas
+    Tabelas com linhas e colunas e chaves primarias (identificação única) e secundárais (relaciona as tabelas).
+    Modelagem conceitual - MER - Modelo entidade e relacionamento
+      DER - Diagrama de entidade e relacionamento, demostra graficamento o relacionamento entre as entidades.
+        Destaca as entidades fortes (entidades que não dependem de outras), entidades fracas (entidades que dependem de outras), entidades associativas que são geradas com base nos relacionamento n para n. E difinição das cardinalidades.
         Normalização - 1 a 5 formas normais
           Primeira forma normal - Tirando duplicidade de informação através de nova coluna 
           Segunda forma normal - Tirando duplicidade atraves de nova tabela com relacionamento
           Terceira forma normal - Retirada de colunas dependentes
-      
+   
+  SGDBR-SQL - Sistema gerenciador de banco de dados relacional
+  
+    Linguagens que controlam o banco de dados
+        DDL - Data Definition Language - Controla as tabela, atributos e relacionamentos. Controla os objetos criados
+          Ex. Create table....
+        DML - Data manipulation Language - Fazer as transformações no ambiente - criação, alteração, exclusão
+          Ex. Insert into tabela.....
+        DQL - Data Query Languege - Fazer minipulações e consultas no dados
+          Ex. select * from .....
     
     
    
