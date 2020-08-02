@@ -90,13 +90,76 @@ Assuntos estudados no Bootcamp
    
   SGDBR-SQL - Sistema gerenciador de banco de dados relacional
   
-    Linguagens que controlam o banco de dados
+  Linguagens que controlam o banco de dados
         DDL - Data Definition Language - Controla as tabela, atributos e relacionamentos. Controla os objetos criados
           Ex. Create table....
         DML - Data manipulation Language - Fazer as transformações no ambiente - criação, alteração, exclusão
           Ex. Insert into tabela.....
         DQL - Data Query Languege - Fazer minipulações e consultas no dados
           Ex. select * from .....
+          
+   Transactions 
+    ACID - atomicidade, todas as operações executadas com sucesso.
+      Consistência - Unicidade de chaves, restrições de integridade única
+      Isolamento - Transações podem acessar simultaneamente os dados
+      Durabilidade - Depois do commit, mesmo com erros,queda de nergia, etc. As alterações sejam aplicadas
+      
+   ## - Conceitos de responsividade e experiência do usuário
+   
+    UI/UX Interface e experiência do usuário - Briefing, Imersão e Unpack
+    
+    Wireframes, Grids e Hierarquia - Estrutura, conteúdo, Hierarquia informativa e funcionalidades
+    
+    Cores - Psicologia das cores
+        Cores primárias - Azul, Laranja e Cinza
+        Paleta secundária - Cores com significados próprios, as padrões...
+        Gradiente ou Degradê - Tons de cinza
+        Tipografias - A roupa do seu projeto
+        Tipos de fonte
+          Serifadas - fontes com pequenos traços - Transfmite o conceito de seriedade e tradição
+          Sem serifa (sans - serif) - Fontes sem os traços - mais modernas
+          Cursivas - manuscritas ou caligráficas - mais clásicos
+          Decorativas - charmar a atenção 
+          Tamanho e peso - 16px é um padrão - Peso é a grossura do caracter
+    
+    Componentes 
+      
+      Iconografia - icones - Combinar icones com palavras
+      Imagens - Captura a atenção 
+      Guia de estilo para o projeto - Contem todas as informações do projeto e desta forma ajudar a padronizar o layout - Padrão visual
+      
+   Processos do mundo real
+      Responsividade - O layout se adequar a todos os tipos e tamanho de dispositivos.
+      Ferramentas - Google Resize, Windows resize
+      Acessibilidade - Possibilitar qq pessoa usar o sistema. 
+      Uxdesign.blog.br
+   
+   Prototipagem - melhora a experiência do usuário, identificar problemas.
+      Fidelidada - baixa, méduia ou alta
+      
+   Bibliografia 
+      Medium: ui-lab-school / us-strategy; http://www.ideo.com; https://material.io; youtube: ux lab / ux now; 
+      
+   ## - Introdução ao domain driven design e padrões de arquitetura
+   
+    Arquitetura de SW - engloba estrutura, comportamento, necessidades do cliente, depende do ambiente, depende do time, tem um estilo arquetetural.
+    O SW tem uma arquitetura.
+    Design de SW - Especificação de requisitos, design de alto nivel e design detalhado
+    Estilo de Arquitetura - camadas, microserviços, pipes and filter, plugins, client/server, etc
+    Padrões de arquitetura - mvc, cqrs, event sourcing, 3 cmadas, etc
+    DDD - Domain Driven Design - Como vc aborda o negócio para a criação do sw
+      É sobre o negócio, agrupar conhecimento de negócio, reconhecer e seprar subdominios, desenhar modelo de domínio rico. Pode ser udado com qq estilo e pdrão. é uma aobradagem de design, modelagem. Não é tecnologia é padrão de trabalho.
+    
+   
+    
+   
+
+   
+    
+          
+      
+   
+   
     
     
    
