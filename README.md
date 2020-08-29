@@ -149,6 +149,14 @@ Assuntos estudados no Bootcamp
     Padrões de arquitetura - mvc, cqrs, event sourcing, 3 cmadas, etc
     DDD - Domain Driven Design - Como vc aborda o negócio para a criação do sw
       É sobre o negócio, agrupar conhecimento de negócio, reconhecer e seprar subdominios, desenhar modelo de domínio rico. Pode ser udado com qq estilo e pdrão. é uma aobradagem de design, modelagem. Não é tecnologia é padrão de trabalho.
+      
+ ## - Arquitetura de sistemas avançados
+ 
+    Comunição de serviços via mensagem em comunição assincrona.
+    Gerenciamento de erros através de monitoramento 
+    Rastreamento de fluxo atravês de logs
+ 
+ 
     
    
     
