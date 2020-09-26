@@ -156,6 +156,35 @@ Assuntos estudados no Bootcamp
     Gerenciamento de erros através de monitoramento 
     Rastreamento de fluxo atravês de logs
  
+    Arquitetura de dados não estruturados e business intelligence
+    
+    BI - Business Intelligence em modelos de dados
+      Os dados são recolhidos de diversos locais e são organizados e transformados para servir de ferrementa para tomnada de decisões pelos gestores
+      Data Warehouse - termo muito antigo. Terei cubos de visões
+      Data Lake - Big data menor
+      
+    Fundamentos de arquitetura de aplicações em nuvem
+    
+      Clound computing - Infra estrutura de tecnologia alocado na nuvem. 
+      IAAS - Infra como serviço; Disponibidade de Hardware e internet
+      PAAS - Plataforma como serviço - Criar o fluxo de criação da infra na produtos disponívies; Disponibilidade de escabilidade
+      BAAS/SAAS - Backend como serviço - Ambiente backend para rodar as apps; Disponibilidade de não se preocupar com o Backend
+      
+      Serverless - Sem servidor - Provedor gerencia os serviços
+      
+      Desenvolvimento e operação de sw integrado - Devops
+      
+      Antes - Áreas de desenv, operações e apoio - metas individuais 
+      Agora com devops - Integra as áreas 
+      FW Calms - Cultura, automação, lean (entrega com valor e rápido), medir e compartilhar 
+      3 Caminhos - Flow, feedback e learning
+      Entregando sw - plan, code, build, test, release, deploy, operate, monitor
+      
+      Integração continua x Implantação continua = CI vs CD 
+      
+      
+      
+      
  
     
    
