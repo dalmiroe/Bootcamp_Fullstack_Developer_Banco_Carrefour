@@ -183,6 +183,11 @@ Assuntos estudados no Bootcamp
       Integração continua x Implantação continua = CI vs CD 
       
       
+ ## - Arquitetura Hexagonal
+ 
+    TDD - Técnica de teste ante de escrever o código
+ 
+    
       
       
  
