@@ -186,6 +186,7 @@ Assuntos estudados no Bootcamp
  ## - Arquitetura Hexagonal
  
     TDD - Técnica de teste ante de escrever o código
+    DDD - presentation->application rules ->domain ->infrastructure
  
     
       
