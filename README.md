@@ -188,7 +188,15 @@ Assuntos estudados no Bootcamp
     TDD - Técnica de teste ante de escrever o código
     DDD - presentation->application rules ->domain ->infrastructure
  
-    
+ ##- Conceioto de melhores práticas com banco de dados PostgreSql
+ 
+  Fundamentos
+  
+  Modelo Relacional - Classifica e organiza os dados
+  Tabela - Conjutos de dados organizadas em colunas e linhas
+    Contem 2 colunas importantes: Chave primária, que identifica unicamente o registro
+      Chave estrangeira - identifica e garante o relaciomento entre tabelas
+  SGBD - Sistema de gerenciamento de bd - Programa que facilita a administração de um bd.
       
       
  
