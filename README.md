@@ -188,7 +188,7 @@ Assuntos estudados no Bootcamp
     TDD - Técnica de teste ante de escrever o código
     DDD - presentation->application rules ->domain ->infrastructure
  
- ##- Conceioto de melhores práticas com banco de dados PostgreSql
+ ## - Conceito de melhores práticas com banco de dados PostgreSql
  
   Fundamentos
   
@@ -197,6 +197,21 @@ Assuntos estudados no Bootcamp
     Contem 2 colunas importantes: Chave primária, que identifica unicamente o registro
       Chave estrangeira - identifica e garante o relaciomento entre tabelas
   SGBD - Sistema de gerenciamento de bd - Programa que facilita a administração de um bd.
+  
+  Instalação em ubuntu/centOS/windows
+  Postgresql.conf - Todas as configurações estão neste arquivos - fica dentro do diretorio pgdata
+    view pg_settings - mostra as configrações do momento - select * from pg_settings; ou show [param]
+    config. de conexão - LISTEN_ADDRESSES - endereço ip liberado para conexao; Port - padrão 5432;
+    config. memória - SHARED_BUFFERS - utilização de memória no cache. 
+  Arquivo pg_hba.conf - arq responsável pelo controle de autenticação dos usuários no servidor.    
+  arquivo pg_ident_conf - mapear usuário do SO com usuário do BD. 
+  Cluster - coleção de bancos de dados 
+  BD - conjunto de schemas 
+  Schemas - conjuto de objetos (tbela, funções.....)
+ Vaccum?
+    
+  
+  
       
       
  
