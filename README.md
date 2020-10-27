@@ -208,6 +208,8 @@ Assuntos estudados no Bootcamp
   Cluster - coleção de bancos de dados 
   BD - conjunto de schemas 
   Schemas - conjuto de objetos (tbela, funções.....)
+  Obs. para conexão - Liberar acesso ao cluster em postgresql.conf; Liberar acesso ao cluster para o usuário do banco de dados em pg_hba.conf e Criar/editar usuários.
+  
  Vaccum?
     
   
