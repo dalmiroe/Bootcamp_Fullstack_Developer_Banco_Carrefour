@@ -207,11 +207,16 @@ Assuntos estudados no Bootcamp
   arquivo pg_ident_conf - mapear usuário do SO com usuário do BD. 
   Cluster - coleção de bancos de dados 
   BD - conjunto de schemas 
-  Schemas - conjuto de objetos (tbela, funções.....)
+  Schemas - conjuto de objetos (tabela, funções.....)
   Obs. para conexão - Liberar acesso ao cluster em postgresql.conf; Liberar acesso ao cluster para o usuário do banco de dados em pg_hba.conf e Criar/editar usuários.
+  Vaccum?
   
- Vaccum?
-    
+  Users/roles/groups
+  User/Roles - conta/papéis ou funções, Group - Grupo de usuário - perfis
+  
+  DDL - Data Manipulation Language - Insert,update, delete, select, comandos de manipulação registros
+  DDl - Data Definition Language - create, alter, drop - comando para manipular estrutura 
+  
   
   
       
