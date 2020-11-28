@@ -215,7 +215,12 @@ Assuntos estudados no Bootcamp
   User/Roles - conta/papéis ou funções, Group - Grupo de usuário - perfis
   
   DDL - Data Manipulation Language - Insert,update, delete, select, comandos de manipulação registros
-  DDl - Data Definition Language - create, alter, drop - comando para manipular estrutura 
+  DDL - Data Definition Language - create, alter, drop - comando para manipular estrutura 
+  
+  Idempotência - faz um tratamento antes da ação, exemplo - if exists
+  ILIKE - ignora o case sensitive
+  Truncate - esvazia a tabela
+  git com codigo - https://github.com/drobcosta/digital_innovation_one
   
   
   
