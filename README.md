@@ -222,6 +222,12 @@ Assuntos estudados no Bootcamp
   Truncate - esvazia a tabela
   git com codigo - https://github.com/drobcosta/digital_innovation_one
   
+  Funções Agregadas 
+  Relacionamentos
+  
+  
+  select * from information_schemas.columns where tablea_name = 'tabela' - mostra as colunas de uma tabela
+  
   
   
       
