@@ -216,6 +216,7 @@ Assuntos estudados no Bootcamp
   
   DDL - Data Manipulation Language - Insert,update, delete, select, comandos de manipulação registros
   DDL - Data Definition Language - create, alter, drop - comando para manipular estrutura 
+  Truncate - esvazia a tabela, padrão ao limpar a sequencia do identity continua a partir da última ocorrencia. 
   
   Idempotência - faz um tratamento antes da ação, exemplo - if exists
   ILIKE - ignora o case sensitive
@@ -224,8 +225,23 @@ Assuntos estudados no Bootcamp
   
   Funções Agregadas 
   Relacionamentos
-  
-  
+  Views
+    With option, valida as opções que consta no where
+    Quando a view tem uma unica tabela, podemos aplicar insert, update e delete
+    unio all - não unifica
+    With loal check option - validar os parametros do where
+    
+  Transações
+    Begin - inicia a transação
+    Commit - grava a transação
+    roolback - cancela a transação
+    savepoint - define um novo ponto para salvar a transação, ignora o que está entre o savepoint e roolback definido
+    
+ Funções
+  coalece trata o parametro
+  security evoque = 
+    
+    
   select * from information_schemas.columns where tablea_name = 'tabela' - mostra as colunas de uma tabela
   
   
