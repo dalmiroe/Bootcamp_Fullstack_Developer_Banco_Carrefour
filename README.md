@@ -239,7 +239,12 @@ Assuntos estudados no Bootcamp
     
  Funções
   coalece trata o parametro
-  security evoque = 
+  security evoker - pegar as permissões do usuário 
+  securiry definer - pegar as permissões de quem criou a função
+  called on null input - executa mesmo se houver parametros nulos
+  returns null on null input - retorna null se houver parametros nulos 
+  sql functions - não permite transações
+  plpgsql - function - permite tansações
     
     
   select * from information_schemas.columns where tablea_name = 'tabela' - mostra as colunas de uma tabela
